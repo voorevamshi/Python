@@ -1,5 +1,7 @@
 ## 1. Features of Python
 
+ 
+
 -   **Simple and Easy to Learn:** Python has a clean syntax that reads like plain English, making it highly beginner-friendly.
     
 -   **Freeware and Open Source:** You can use it for free, and its source code is publicly available to modify or improve.
@@ -10,7 +12,7 @@
     
 -   **Portability:** You can easily move Python code from one platform to another without encountering compatibility issues.
     
--   **Dynamically Typed:** You don't need to declare variable types explicitly (like `int x = 10` in Java). Python automatically assigns the type at runtime based on the value (e.g., `x = 10`).
+-   **Dynamically Typed:** You don't need to declare variable types explicitly (like `int x = 10` in Java). Python automatically assigns the type at runtime based on the value (e.g., `x = 10`).( [Difference between Dynamic & Static Typed](DiffBetweenDynamic&StaticType.md))
     
 -   **Both Procedure & Object-Oriented:** It supports both structured, step-by-step programming (like C) and object/class-based programming (like C++ or Java).
     
@@ -31,6 +33,6 @@
 
 While Python is incredibly powerful, it has two major drawbacks:
 
--   **Performance (Speed):** Because Python is an **interpreted** language and executes code line-by-line, it is slower compared to purely compiled languages like C, C++, or Java.
+-   **Performance (Speed):** Because Python is an **interpreted** language and executes code line-by-line, it is slower compared to purely compiled languages like C, C++, or Java.([Why does Java offer better performance (execution speed) compared to Python](WhyJavaBetterPerformancComparedToPython.md))
     
 -   **Mobile Applications:** Python is not natively preferred or well-supported for building mobile applications (iOS/Android). Languages like Swift, Kotlin, or Java dominate this space.
