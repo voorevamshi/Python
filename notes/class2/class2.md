@@ -12,7 +12,7 @@
     
 -   **Portability:** You can easily move Python code from one platform to another without encountering compatibility issues.
     
--   **Dynamically Typed:** You don't need to declare variable types explicitly (like `int x = 10` in Java). Python automatically assigns the type at runtime based on the value (e.g., `x = 10`).( [Difference between Dynamic & Static Typed](DiffBetweenDynamic&StaticType.md))
+-   **Dynamically Typed:** You don't need to declare variable types explicitly (like `int x = 10` in Java). Python automatically assigns the type at runtime based on the value (e.g., `x = 10`).( [Difference between Java & Python Compilaton, Excecution](DiffBetweenJavaAndPythonCompileExcecuton.md))
     
 -   **Both Procedure & Object-Oriented:** It supports both structured, step-by-step programming (like C) and object/class-based programming (like C++ or Java).
     
