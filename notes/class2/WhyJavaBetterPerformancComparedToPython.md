@@ -2,7 +2,7 @@
 
 ----------
 
-Java achieves superior performance over Python due to two main architectural differences:
+Java achieves superior performance over Python due to two main architectural differences:(**Because Java knows the exact data type of every variable before the code runs, it doesn’t have to waste time figuring it out during execution.**)
 
 ### 1. Compile-Time Type Checking (Static Typing)
 
@@ -16,3 +16,9 @@ Java achieves superior performance over Python due to two main architectural dif
 -   **Java** uses a hybrid execution engine (Interpreter + JIT Compiler). The JIT compiler identifies frequently executed code blocks ("hotspots") at runtime and compiles them directly into native machine code for hardware-level execution speed.
     
 -   **Standard Python (CPython)** relies almost entirely on a standard interpreter that executes bytecode line-by-line, repeating the interpretation process even for loops that run millions of times.
+
+| Factor | Java (Fast) | Python (Slower) |
+| :--- | :--- | :--- |
+| **Type Checking** | At **Compile-time** | At **Runtime** (On-the-fly) |
+| **Execution** | Interpreter + **JIT Compiler** | Pure Interpreter |
+| **Memory** | Pre-allocated and optimized | Dynamically allocated |
