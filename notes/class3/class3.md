@@ -12,7 +12,7 @@ Python comes in different implementations (flavors) tailored for different envir
     
 -   **RubyPython:** A bridge implementation that allows integration between Python and Ruby software.
     
--   **AnacondaPython:** Specifically packaged for **Data Science, Machine Learning, and Big Data**. It comes pre-loaded with thousands of data science libraries.
+-   **AnacondaPython:** Specifically packaged for **AI, Data Science, Machine Learning, and Big Data**. It comes pre-loaded with thousands of data science libraries [CPython concepts required for Anaconda Python](CPythonConceptsRequiredForAnacondaPython.md).
     
 -   **Stackless:** Python optimized for **concurrency** and multithreading. It manages tasks without using the standard C stack, making it highly efficient for parallel processing.
     
